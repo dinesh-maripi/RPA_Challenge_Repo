@@ -88,7 +88,7 @@
               <OutArgument x:TypeArguments="x:String">[WebURL]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:String">https://www.rpachallenge.com/</InArgument>
+              <InArgument x:TypeArguments="x:String">https://www.flipkart.com/</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
         </scg:List>
